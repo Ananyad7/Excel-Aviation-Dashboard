@@ -33,9 +33,7 @@ incident rates.
 5. Recommend targeted safety measures for flights over the Atlantic and Pacific Oceans, considering common crash locations.
 6. Emphasize the vital importance of thorough investigations, particularly for incidents occurring during flights with a duration of 12 hours or more.
 
-
-
-
+Linkedin Link: https://www.linkedin.com/posts/7ananyadas_exceldashboard-datavisualization-excelskills-activity-7148342240682184704-TipY?utm_source=share&utm_medium=member_desktop
 
 
 

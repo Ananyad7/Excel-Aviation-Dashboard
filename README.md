@@ -1,4 +1,5 @@
-# Aviation Dashboard (Excel)
+# Aviation Dashboard 
+# Tool Used : Excel
 A dynamic Excel dashboard, exploring global plane crashes from 1921 to 2022 . Designed to assist airport authorities in identifying high-risk regions, it provides detailed insights into top countries, crash locations, causes, fatality rates, and more
 
 ![plane crash](https://github.com/Ananyad7/Excel-Aviation-Dashboard/assets/164981636/2ab51da2-12b3-482f-81a4-a793c2fb197a)
